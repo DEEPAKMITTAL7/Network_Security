@@ -11,6 +11,8 @@ scipy
 mlflow
 dagshub
 pyaml
+fastapi
+uvicorn
 
 
 #-e .

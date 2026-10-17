@@ -1,0 +1,6 @@
+[2026-10-17 13:48:55,939] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-10-17 13:48:55,948] 107 dagshub - INFO - Accessing as DEEPAKMITTAL7
+[2026-10-17 13:48:56,944] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/DEEPAKMITTAL7/Network_Security "HTTP/1.1 200 OK"
+[2026-10-17 13:48:57,866] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-10-17 13:48:57,870] 107 dagshub - INFO - Initialized MLflow to track repo "DEEPAKMITTAL7/Network_Security"
+[2026-10-17 13:48:57,872] 107 dagshub - INFO - Repository DEEPAKMITTAL7/Network_Security initialized!
